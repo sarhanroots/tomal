@@ -8,6 +8,7 @@ product = "rtwo_g"
 name = "rtwo"
 marketname = "Motorola XT2351-1"
 fingerprint = "motorola/rtwo_g/rtwo:12/SR2A.220102.914/OBHJQ6:user/release-keys"
+packages = [ "com.logistics.rider.talabat", "com.logistics.rider.hungerstation" ]
 mode = "full"
 author = "Telegram@SarhanHassan1"
 
