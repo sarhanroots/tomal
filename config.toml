@@ -1,5 +1,4 @@
 default_mode = "lite"
-
 [templates.motorola_xt2351_1_12]
 manufacturer = "Motorola"
 brand = "motorola"
