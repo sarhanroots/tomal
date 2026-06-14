@@ -1,0 +1,1 @@
+packages = [ "com.logistics.rider.talabat", "com.logistics.rider.hungerstation" ]
