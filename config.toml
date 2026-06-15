@@ -1,18 +1,5 @@
 default_mode = "full"
 
-[templates.motorola_xt2351_1_10]
-manufacturer = "Motorola"
-brand = "motorola"
-model = "XT2351-1"
-device = "rtwo"
-product = "rtwo_g"
-name = "rtwo"
-marketname = "Motorola XT2351-1"
-fingerprint = "motorola/rtwo_g/rtwo:10/QP1C.220209.655/HRDLEF:user/release-keys"
-packages = [ "com.logistics.rider.talabat", "com.logistics.rider.hungerstation" ]
-mode = "full"
-author = "Telegram@SarhanHassan1"
-
 [templates.motorola_xt2351_1_11]
 manufacturer = "Motorola"
 brand = "motorola"
