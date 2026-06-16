@@ -1,14 +1,3 @@
 default_mode = "full"
 
-[templates.motorola_xt2301_5_13_tr3b]
-manufacturer = "Motorola"
-brand = "motorola"
-model = "XT2301-5"
-device = "eqs"
-product = "eqs_g"
-name = "eqs"
-marketname = "Motorola XT2301-5"
-fingerprint = "motorola/eqs_g/eqs:13/TR3B.230716.487/XG05IH:user/release-keys"
-packages = [ "com.logistics.rider.talabat", "com.logistics.rider.hungerstation" ]
-mode = "full"
-author = "Telegram@SarhanHassan1"
+
