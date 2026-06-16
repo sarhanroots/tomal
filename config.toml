@@ -1,3 +1,14 @@
 default_mode = "full"
 
-
+[templates.motorola_xt2351_1_14_up3a]
+manufacturer = "Motorola"
+brand = "motorola"
+model = "XT2351-1"
+device = "rtwo"
+product = "rtwo_g"
+name = "rtwo"
+marketname = "Motorola XT2351-1"
+fingerprint = "motorola/rtwo_g/rtwo:14/UP3A.240322.472/81V1ZP:user/release-keys"
+packages = [ "com.logistics.rider.talabat", "com.logistics.rider.hungerstation" ]
+mode = "full"
+author = "Telegram@SarhanHassan1"
