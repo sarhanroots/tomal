@@ -7,31 +7,9 @@
 
 
 
-[templates.motorola_xt2351_1_13_tr3b]
-manufacturer = "Motorola"
-brand = "motorola"
-model = "XT2351-1"
-device = "rtwo"
-product = "rtwo_g"
-name = "rtwo"
-marketname = "Motorola XT2351-1"
-fingerprint = "motorola/rtwo_g/rtwo:13/TR3B.211118.761/V7CVHI:user/release-keys"
-packages = [ "com.logistics.rider.talabat", "com.logistics.rider.hungerstation" ]
-mode = "full"
-author = "Telegram@SarhanHassan1"
 
-[templates.motorola_xt2351_1_14_ur2b]
-manufacturer = "Motorola"
-brand = "motorola"
-model = "XT2351-1"
-device = "rtwo"
-product = "rtwo_g"
-name = "rtwo"
-marketname = "Motorola XT2351-1"
-fingerprint = "motorola/rtwo_g/rtwo:14/UR2B.200519.432/R5O1ZP:user/release-keys"
-packages = [ "com.logistics.rider.talabat", "com.logistics.rider.hungerstation" ]
-mode = "full"
-author = "Telegram@SarhanHassan1"
+
+
 
 [templates.motorola_xt2351_1_11_rr1c]
 manufacturer = "Motorola"
