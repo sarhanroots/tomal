@@ -1,6 +1,6 @@
 default_mode = "full"
 
-[templates.motorola_xt2301_5_13_tp1a]
+[templates.motorola_xt2301_5_11_rr2a]
 manufacturer = "Motorola"
 brand = "motorola"
 model = "XT2301-5"
@@ -8,7 +8,6 @@ device = "eqs"
 product = "eqs_g"
 name = "eqs"
 marketname = "Motorola XT2301-5"
-fingerprint = "motorola/eqs_g/eqs:13/TP1A.220226.025/68ZMN9:user/release-keys"
-packages = [ "com.logistics.rider.talabat", "com.logistics.rider.hungerstation" ]
+fingerprint = "motorola/eqs_g/eqs:11/RR2A.241103.382/9A1BUG:user/release-keys"
 mode = "full"
 author = "Telegram@SarhanHassan1"
