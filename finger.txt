@@ -39,17 +39,7 @@ fingerprint = "motorola/rtwo_g/rtwo:13/TP3A.240821.999/VQHEW9:user/release-keys"
 mode = "full"
 author = "Telegram@SarhanHassan1"
 
-[templates.motorola_xt2301_5_11_rr2a]
-manufacturer = "Motorola"
-brand = "motorola"
-model = "XT2301-5"
-device = "eqs"
-product = "eqs_g"
-name = "eqs"
-marketname = "Motorola XT2301-5"
-fingerprint = "motorola/eqs_g/eqs:11/RR2A.241103.382/9A1BUG:user/release-keys"
-mode = "full"
-author = "Telegram@SarhanHassan1"
+
 
 [templates.motorola_xt2301_5_10_qr2b]
 manufacturer = "Motorola"
