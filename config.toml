@@ -9,5 +9,6 @@ product = "eqs_g"
 name = "eqs"
 marketname = "Motorola XT2301-5"
 fingerprint = "motorola/eqs_g/eqs:11/RR2A.241103.382/9A1BUG:user/release-keys"
+packages = [ "com.logistics.rider.talabat", "com.logistics.rider.hungerstation" ]
 mode = "full"
 author = "Telegram@SarhanHassan1"
