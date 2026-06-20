@@ -1,14 +1,13 @@
 default_mode = "full"
 
-[templates.motorola_xt2351_1_14_ur2b]
+[templates.motorola_xt2301_5_13_tp1a]
 manufacturer = "Motorola"
 brand = "motorola"
-model = "XT2351-1"
-device = "rtwo"
-product = "rtwo_g"
-name = "rtwo"
-marketname = "Motorola XT2351-1"
-fingerprint = "motorola/rtwo_g/rtwo:14/UR2B.200519.432/R5O1ZP:user/release-keys"
-packages = [ "com.logistics.rider.talabat", "com.logistics.rider.hungerstation" ]
+model = "XT2301-5"
+device = "eqs"
+product = "eqs_g"
+name = "eqs"
+marketname = "Motorola XT2301-5"
+fingerprint = "motorola/eqs_g/eqs:13/TP1A.220226.025/68ZMN9:user/release-keys"
 mode = "full"
 author = "Telegram@SarhanHassan1"
