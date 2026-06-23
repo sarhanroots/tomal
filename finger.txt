@@ -127,65 +127,7 @@ author = "Telegram@SarhanHassan1"
 
 
 
-[templates.motorola_xt2351_1_10_qq2a]
-manufacturer = "Motorola"
-brand = "motorola"
-model = "XT2351-1"
-device = "rtwo"
-product = "rtwo_g"
-name = "rtwo"
-marketname = "Motorola XT2351-1"
-fingerprint = "motorola/rtwo_g/rtwo:10/QQ2A.240205.140/9VNRLA:user/release-keys"
-mode = "full"
-author = "Telegram@SarhanHassan1"
 
-[templates.motorola_xt2351_1_12_sp3a]
-manufacturer = "Motorola"
-brand = "motorola"
-model = "XT2351-1"
-device = "rtwo"
-product = "rtwo_g"
-name = "rtwo"
-marketname = "Motorola XT2351-1"
-fingerprint = "motorola/rtwo_g/rtwo:12/SP3A.231120.832/LULH2P:user/release-keys"
-mode = "full"
-author = "Telegram@SarhanHassan1"
-
-[templates.motorola_xt2351_1_11_rq2a]
-manufacturer = "Motorola"
-brand = "motorola"
-model = "XT2351-1"
-device = "rtwo"
-product = "rtwo_g"
-name = "rtwo"
-marketname = "Motorola XT2351-1"
-fingerprint = "motorola/rtwo_g/rtwo:11/RQ2A.240104.219/HKUUP7:user/release-keys"
-mode = "full"
-author = "Telegram@SarhanHassan1"
-
-[templates.motorola_xt2351_1_11_rr2c]
-manufacturer = "Motorola"
-brand = "motorola"
-model = "XT2351-1"
-device = "rtwo"
-product = "rtwo_g"
-name = "rtwo"
-marketname = "Motorola XT2351-1"
-fingerprint = "motorola/rtwo_g/rtwo:11/RR2C.210804.976/5US9LH:user/release-keys"
-mode = "full"
-author = "Telegram@SarhanHassan1"
-
-[templates.motorola_xt2301_5_11_rr1a]
-manufacturer = "Motorola"
-brand = "motorola"
-model = "XT2301-5"
-device = "eqs"
-product = "eqs_g"
-name = "eqs"
-marketname = "Motorola XT2301-5"
-fingerprint = "motorola/eqs_g/eqs:11/RR1A.230917.346/DDJLWK:user/release-keys"
-mode = "full"
-author = "Telegram@SarhanHassan1"
 
 [templates.motorola_xt2301_5_12_sp1b]
 manufacturer = "Motorola"
